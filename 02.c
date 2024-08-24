@@ -6,12 +6,12 @@ int main() {
   int num2;
   
   
-  printf("Insira o primeiro número");
+  printf("Insira o primeiro nÃºmero");
   scanf("%d", &num1);
-  printf("Insira o segundo número");
+  printf("Insira o segundo nÃºmero");
   scanf("%d", &num2);
   int soma = num1 + num2;
-  printf("A soma deles será: %d", soma);
+  printf("A soma deles serÃ¡: %d", soma);
   
   return 0;
 }
