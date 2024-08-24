@@ -7,14 +7,14 @@ int main(){
       int num2;
       int num3;
 
-      printf("Digite o primeiro número: ");
+      printf("Digite o primeiro nÃºmero: ");
       scanf("%d", &num1);
-      printf("Digite o segundo número: ");
+      printf("Digite o segundo nÃºmero: ");
       scanf("%d", &num2);
-      printf("Digite o terceiro número: ");
+      printf("Digite o terceiro nÃºmero: ");
       scanf("%d", &num3);
       float valor = (num1 + num2) / 2;
-      printf("A média será: %.2f",valor);
+      printf("A mÃ©dia serÃ¡: %.2f",valor);
       
       
     return 0;
