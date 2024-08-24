@@ -8,9 +8,9 @@ int main(void) {
   printf("informe um numero: \n");
   scanf("%d", &numero);
   if(numero % 2 == 0){
-    printf("o numero é par");
+    printf("o numero Ã© par");
   }else{
-    printf("o numero é impar");
+    printf("o numero Ã© impar");
   } 
   return 0;
 }
