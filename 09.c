@@ -5,12 +5,12 @@ int main() {
   int num;
   int fatorial = 1;
   int i;
-  printf("Insira um número: ");
+  printf("Insira um nÃºmero: ");
   scanf("%d", &num);
   for( i = 1; i <= num; i++){
     fatorial = fatorial * i;
   }
-  printf("O fatorial deste número será %d \n\n", fatorial); 
+  printf("O fatorial deste nÃºmero serÃ¡ %d \n\n", fatorial); 
   
   return 0;
 }
