@@ -4,10 +4,10 @@
 int main() {
   setlocale(LC_ALL, "Portuguese");
   int celcius;
-  printf("Escolha uma temperatura para a conversão: ");
+  printf("Escolha uma temperatura para a conversÃ£o: ");
   scanf("%d", &celcius);
   float fahrenheit = (celcius * 1.8) + 32;
-  printf("A conversão para fahrenheit será: %f", fahrenheit);
+  printf("A conversÃ£o para fahrenheit serÃ¡: %f", fahrenheit);
 
   return 0;
 }
