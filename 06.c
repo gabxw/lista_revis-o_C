@@ -7,7 +7,7 @@ int main(){
       printf("Informe um valor para o raio: ");
       scanf("%d", &raio); 
       int areaTotal = (int)(pow(raio,2) * 3.14); 
-      printf("A ·rea do circulo ser·: %d", areaTotal);
+      printf("A √°rea do circulo ser√°: %d", areaTotal);
       
     return 0;
 }
